@@ -1,4 +1,4 @@
-# simple_home
+# simple_home\n
 初始计划: arduino + 激光检测模块测试室内PM2.5
 then
 引入树莓派作为跳板，将数据搞到外网，做数据可视化
